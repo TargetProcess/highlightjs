@@ -5,7 +5,7 @@
   "authors": [
     "konstantin <krivlenia@targetprocess.com>"
   ],
-  "dependencies":{
+  "devDependencies":{
     "highlight.js": "https://github.com/isagalaev/highlight.js.git#8.5"
   },
   "main": ["styles.css","highlight.pack.js"],
