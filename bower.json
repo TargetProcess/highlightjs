@@ -8,6 +8,7 @@
   "dependencies":{
     "highlight.js": "https://github.com/isagalaev/highlight.js.git#8.5"
   },
+  "main": ["tomorrow.css","highlight.pack.js"],
   "description": "custom build for targetprocess",
   "license": "MIT",
   "ignore": [
