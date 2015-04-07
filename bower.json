@@ -1,0 +1,20 @@
+{
+  "name": "highlightjs",
+  "version": "0.0.1",
+  "homepage": "https://github.com/TargetProcess/highlightjs",
+  "authors": [
+    "konstantin <krivlenia@targetprocess.com>"
+  ],
+  "dependencies":{
+    "highlight.js": "https://github.com/isagalaev/highlight.js.git#8.5"
+  },
+  "description": "custom build for targetprocess",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
